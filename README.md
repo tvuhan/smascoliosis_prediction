@@ -1,5 +1,7 @@
 # An Interpretable Data-Driven Prediction Model to Anticipate Scoliosis in Spinal Muscular Atrophy in the Era of (Gene-) Therapies
 
+[![DOI](https://zenodo.org/badge/802182780.svg)](https://zenodo.org/doi/10.5281/zenodo.11217090)
+
 Tu-Lan Vu-Han, MD PhD`(*1,2)`; Rodrigo Bermudez Schettino, MSc.`(3)`; Claudia Weiß, MD`(4)`; Prof. Carsten Perka, MD`(2)`; Prof. Tobias Winkler, MD`(2,5,6)`; Vikram Sunkara, PhD`(7)`; Prof. Matthias Pumberger, MD`(1)`
 
 `(1)` Charité – Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Center for Musculoskeletal Surgery, Berlin, Germany
